@@ -17,8 +17,6 @@ I have always wanted to have my very own url shortner becuase of the following r
 
 Okay sob story is done, let's get right down to it and here is [final repository](https://github.com/OkkarMin/url-shortner-app)
 
-{% github OkkarMin/url-shortner-app no-readme%}
-
 ## Tech Stack
 
 - NextJS + ChakraUI
