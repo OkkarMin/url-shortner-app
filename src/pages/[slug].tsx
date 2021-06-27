@@ -1,3 +1,4 @@
+// Bare-minimum imports
 import { GetServerSideProps } from "next";
 import firebase from "firebase/app";
 import "firebase/firestore";
